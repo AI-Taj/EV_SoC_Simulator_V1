@@ -1,7 +1,22 @@
-# Add required packages here
+# Core scientific packages
 numpy
 pandas
-matplotlib
 scipy
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
 tensorflow
 keras
+
+# Visualization and dimensionality reduction
+plotly
+tslearn
+umap-learn
+
+# GUI (for future application)
+streamlit
+
+# File handling
+h5py
