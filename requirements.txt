@@ -1,0 +1,7 @@
+# Add required packages here
+numpy
+pandas
+matplotlib
+scipy
+tensorflow
+keras
