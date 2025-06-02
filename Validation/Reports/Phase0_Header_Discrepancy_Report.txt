@@ -1,0 +1,280 @@
+TripA01.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA02.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA03.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA04.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA05.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA06.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA07.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA08.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA09.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA10.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA11.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA12.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA13.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA14.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA15.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA16.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA17.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA18.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA19.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA20.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA21.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Requested Coolant Temperature [°C], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA22.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Temperature Heatercore [°C], Coolant Temperature Inlet [°C], Coolant Volume Flow +500 [l/h], Heater Current [A], Heater Voltage [V], Heating Power LIN [W], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA23.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA24.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA25.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA26.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA27.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA28.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA29.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA30.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA31.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripA32.csv:
+  ❌ Missing: Ambient Temperature Sensor [°C], Coolant Volume Flow +500 [l/h], Temperature Coolant Heater Inlet [°C], Temperature Coolant Heater Outlet [°C], Temperature Defrost central [°C], Temperature Defrost central left [°C], Temperature Defrost central right [°C], Temperature Defrost lateral left [°C], Temperature Defrost lateral right [°C], Temperature Feetvent Co-Driver [°C], Temperature Feetvent Driver [°C], Temperature Footweel Co-Driver [°C], Temperature Footweel Driver [°C], Temperature Head Co-Driver [°C], Temperature Head Driver [°C], Temperature Heat Exchanger Outlet [°C], Temperature Vent central left [°C], Temperature Vent central right [°C], Temperature Vent right [°C]
+  ⚠️  Extra:   None
+
+TripB01.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB02.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB03.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB04.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB05.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB06.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB07.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB08.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB09.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB10.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB11.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB12.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB13.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB14.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB15.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB16.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB17.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB18.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB19.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB20.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB21.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB22.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB23.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB24.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB25.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB26.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB27.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB28.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB29.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB30.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB31.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB32.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB33.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB34.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB35.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB36.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB37.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
+TripB38.csv:
+  ❌ Missing: None
+  ⚠️  Extra:   None
+
